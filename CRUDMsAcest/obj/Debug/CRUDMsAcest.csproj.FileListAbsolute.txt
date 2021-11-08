@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\CRUDMsAcest\CRUDMsAcest\bin\Debug\MyDb.accdb
+C:\Users\ASUS\source\repos\CRUDMsAcest\CRUDMsAcest\bin\Debug\CRUDMsAcest.exe.config
+C:\Users\ASUS\source\repos\CRUDMsAcest\CRUDMsAcest\bin\Debug\CRUDMsAcest.exe
+C:\Users\ASUS\source\repos\CRUDMsAcest\CRUDMsAcest\bin\Debug\CRUDMsAcest.pdb
+C:\Users\ASUS\source\repos\CRUDMsAcest\CRUDMsAcest\obj\Debug\CRUDMsAcest.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CRUDMsAcest\CRUDMsAcest\obj\Debug\CRUDMsAcest.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CRUDMsAcest\CRUDMsAcest\obj\Debug\CRUDMsAcest.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CRUDMsAcest\CRUDMsAcest\obj\Debug\CRUDMsAcest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CRUDMsAcest\CRUDMsAcest\obj\Debug\CRUDMsAcest.exe
+C:\Users\ASUS\source\repos\CRUDMsAcest\CRUDMsAcest\obj\Debug\CRUDMsAcest.pdb
+C:\Users\ASUS\source\repos\CRUDMsAcest\CRUDMsAcest\obj\Debug\CRUDMsAcest.fajfjkfk.resources
